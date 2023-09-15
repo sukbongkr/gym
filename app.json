@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gymdiary",
+    "slug": "gymdiary",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gymdiary"
+}
